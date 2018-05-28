@@ -38,7 +38,7 @@ Input Image G :
 <img src="https://github.com/prajwalsingh/OpenCv-Morse-Code-Solver/blob/master/morsem.png" width="200" height="200" /> <img src="https://github.com/prajwalsingh/OpenCv-Morse-Code-Solver/blob/master/morsen.png" width="200" height="200" />
 
 
-Require Libary :
+Require Library :
 > opencv 3.0+
 
 
